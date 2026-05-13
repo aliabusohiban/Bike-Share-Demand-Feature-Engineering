@@ -126,4 +126,4 @@ jupyter notebook Feature_Engineering.ipynb
 
 ## 👤 Author
 
-Built as part of the AXSOS Academy Data Science curriculum.
+Ali Abu Sohiban
